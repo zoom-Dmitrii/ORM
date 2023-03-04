@@ -1,0 +1,15 @@
+E:\Lessons\GB\BootKemp\ORM\bin\Debug\net6.0\ORM.exe
+E:\Lessons\GB\BootKemp\ORM\bin\Debug\net6.0\ORM.deps.json
+E:\Lessons\GB\BootKemp\ORM\bin\Debug\net6.0\ORM.runtimeconfig.json
+E:\Lessons\GB\BootKemp\ORM\bin\Debug\net6.0\ORM.dll
+E:\Lessons\GB\BootKemp\ORM\bin\Debug\net6.0\ORM.pdb
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.csproj.AssemblyReference.cache
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.AssemblyInfoInputs.cache
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.AssemblyInfo.cs
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.csproj.CoreCompileInputs.cache
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.dll
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\refint\ORM.dll
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.pdb
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ORM.genruntimeconfig.cache
+E:\Lessons\GB\BootKemp\ORM\obj\Debug\net6.0\ref\ORM.dll
